@@ -30,10 +30,9 @@ Technologies used to develop this application:
 1. Python v3.8.2
 2. Django 3.0.7
 3. Javascript
-4. Cloudinary
-5. Bootstrap
-6. HTML 
-7. CSS
+4. Bootstrap
+5. HTML 
+6. CSS
 
 
 ## Support and contact details
