@@ -5,7 +5,7 @@ A clone of the popular Instagram application. Users are able to upload images, f
 ## Live link
 
 ## Github  link
-[https://github.com/Wenslaus-Makumba/instagram-clone]
+https://github.com/Wenslaus-Makumba/awwards-app
 
 ## Development
 To make advancements/modifications, follow these steps:
