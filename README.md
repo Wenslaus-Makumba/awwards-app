@@ -1,6 +1,6 @@
 
 ## Description
-A clone of the popular Instagram application. Users are able to upload images, follow other users to see their photos, like and comment on photos.
+an application where a user can post his/her projects and applications done and get it reviewed by his or her peers.
 
 ## Live link
 
